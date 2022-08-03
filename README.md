@@ -2,6 +2,8 @@
 
 一款《BanG Dream! 少女乐团派对》web版模拟器。
 
+此仓库并不是网页端，需配合[BPv2-Mo-Adnroid](https://github.com/misaka10843/BPv2-Mo-Adnroid)
+
 ## 安装依赖
 ```bash
 yarn
