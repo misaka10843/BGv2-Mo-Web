@@ -4,6 +4,8 @@
 
 此仓库并不是网页端，需配合[BPv2-Mo-Adnroid](https://github.com/misaka10843/BPv2-Mo-Adnroid)
 
+apk下载：[BPv2-Mo-Adnroid-releases](https://github.com/misaka10843/BPv2-Mo-Adnroid/releases)
+
 ## 安装依赖
 ```bash
 yarn
