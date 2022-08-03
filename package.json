@@ -1,0 +1,51 @@
+{
+  "name": "bang_player_v2",
+  "version": "2.0.8",
+  "description": "A BanG Dream! Girl's Band Party web simulator",
+  "productName": "BanG Player v2",
+  "author": "ReiKohaku <hbsjzjwj@163.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue ./",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.9.10",
+    "axios": "^0.18.1",
+    "bangbangboom-game": "git+https://gitee.com/ReiKohaku/bangbangboom-game.git",
+    "core-js": "^3.6.5",
+    "howler": "^2.2.0",
+    "jszip": "^3.5.0",
+    "node-sass": "^7.0.1",
+    "quasar": "^1.19.5",
+    "showdown": "^1.9.1",
+    "vue-i18n": "^8.0.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@quasar/app": "^2.1.6",
+    "@quasar/icongenie": "^2.3.3",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-vue": "^6.1.2",
+    "workbox-webpack-plugin": "^5.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
